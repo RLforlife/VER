@@ -1,5 +1,5 @@
 # Valuable Experience Replay (VER)
-This repository contains code from a under-reviewed paper of ICLR: Revisiting Prioritized Experience Replay: A Value Perspective. Codes are written in python 3, and provided in jupyter notebook format (.ipynb).
+This repository contains code from a under-reviewed paper of ICLR: Revisiting Prioritized Experience Replay: A Value Perspective (https://openreview.net/forum?id=jAJrc-kzVd0). Codes are written in python 3, and provided in jupyter notebook format (.ipynb).
 
 ## Code for Figure 1: Results of Q-learning and soft Q-learning in Maze
 Q-learning: maze_q_learning.ipynb
